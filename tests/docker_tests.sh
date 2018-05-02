@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 DOCKER_IMAGE="dockerframework/aerospike"
-DOCKER_TAG="4.0.0.4"
+DOCKER_TAG="latest"
 
 #### Halt script on error
 set -e
