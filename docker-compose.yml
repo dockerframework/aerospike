@@ -18,4 +18,4 @@ services:
       - /etc/localtime:/etc/localtime:ro
       - ./config/aerospike/aerospike.conf:/etc/aerospike/aerospike.conf  # volume for config
     environment:
-      - AEROSPIKE_VERSION=3.16.0.6
+      - AEROSPIKE_VERSION=4.0.0.4

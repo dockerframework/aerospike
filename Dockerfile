@@ -1,4 +1,4 @@
-ARG AEROSPIKE_VERSION=3.16.0.6
+ARG AEROSPIKE_VERSION=4.0.0.4
 FROM aerospike:${AEROSPIKE_VERSION}
 
 # ================================================================================================
